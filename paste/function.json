@@ -1,0 +1,6 @@
+{
+  "name": "paste",
+  "bucket": "stash-215008",
+  "memory": 512,
+  "timeout": 60
+}
